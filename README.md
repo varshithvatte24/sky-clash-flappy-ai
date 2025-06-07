@@ -1,6 +1,6 @@
 
 
-![Sky Clash Gameplay Preview](preview.png) <!-- You can add a screenshot or GIF here -->
+## Sky Clash Gameplay Preview(preview.png)
 
 ---
 
@@ -78,7 +78,6 @@ The AI bird uses a simple reactive logic:
 * [ ] Smarter AI using neural networks (NEAT algorithm)
 * [ ] Sound effects and background music
 * [ ] Leaderboards synced via a backend
-* [ ] Mobile touch support enhancements
 
 
 
