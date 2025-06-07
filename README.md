@@ -1,6 +1,6 @@
 
 
-## Sky Clash Gameplay Preview(preview.png)
+## Sky Clash: Human vs AI flappy bird
 
 ---
 
@@ -19,47 +19,6 @@
 
 * 🌍 **Responsive Design**
   Automatically adjusts to fit any screen size.
-
----
-
-## 🖼️ Game Assets
-
-* **Background:** `1.gif`
-* **Human Bird Image:** `human.png`
-* **AI Bird Image:** `ai.png`
-
-Make sure these images are in the same directory or update the source paths in the code accordingly.
-
----
-
-## 🔧 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/sky-clash.git
-cd sky-clash
-```
-
-### 2. Open in Browser
-
-Simply open the `index.html` file in any modern browser.
-
----
-
-## 📁 Project Structure
-
-```bash
-sky-clash/
-│
-├── index.html           # Main HTML file
-├── game.js              # Game logic (the code you provided)
-├── 1.gif                # Background image
-├── human.png            # Human bird sprite
-├── ai.png               # AI bird sprite
-├── style.css            # (Optional) CSS styling
-└── README.md            # Project README
-```
 
 ---
 
